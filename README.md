@@ -1,2 +1,3 @@
 # toy_ds_project
-"project creation date:" 7/10/2023 
+Project creation date: 7/10/2023 
+Author: Nazia Maisha Chowdhury
